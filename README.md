@@ -1,0 +1,2 @@
+# GitJournal2
+test
